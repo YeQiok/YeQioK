@@ -22,4 +22,4 @@
   
   ##
   
-  ![Snake animation}(https://github.com/YeQioK/YeQioK/blob/output/github-contribution-frid-snake.svg)
+  ![Snake animation}(https://github.com/YeQioK/main/blob/output/github-contribution-frid-snake.svg)
