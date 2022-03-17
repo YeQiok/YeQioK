@@ -1,5 +1,10 @@
 ### Olá, me chamo Luis Felipe Prazer!!!
 
+### https://github.com/YeQiok/ProjectEstagio
+### Projeto teve seus desafios principalmente na parte de API não esta completo mais tentei mexer com uma tecnologia nova para mim e que não tenha pratica!
+### Projeto ele e composto por 1 tela e seus botão auto se explica! Não consegui terminar teve partes que tive que aprender no momento e colocar em pratica
+### claro preciso melhorar em muito foi um novo desafio usando uma linguagem que não conheço e aprendendo a como usar uma API.
+
 <div>
    <a href="https://github.com/YeQiok">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=YeQioK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
