@@ -4,6 +4,7 @@
 ### Projeto teve seus desafios principalmente na parte de API não esta completo mais tentei mexer com uma tecnologia nova para mim e que não tenha pratica!
 ### Projeto ele e composto por 1 tela e seus botão auto se explica! Não consegui terminar teve partes que tive que aprender no momento e colocar em pratica
 ### claro preciso melhorar em muito foi um novo desafio usando uma linguagem que não conheço e aprendendo a como usar uma API.
+### a maior dificuldade foi entender como funciona a API e alguns botão não consegui colocar para funcionar mais o script esta feito da parte dele.
 
 <div>
    <a href="https://github.com/YeQiok">
